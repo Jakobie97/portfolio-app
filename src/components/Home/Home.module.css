@@ -1,0 +1,11 @@
+.Home {
+  background: #0e0e16;
+  margin: 0px;
+}
+.Home .container h1 {
+  margin: 0;
+}
+h1 {
+  color: white;
+  padding-top: 200px;
+}
